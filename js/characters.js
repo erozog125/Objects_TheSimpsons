@@ -1,4 +1,4 @@
-let characters = {
+const characters = {
   Bart: {
     nameCharacter:'Bart Simpsons',
     photo: '/Images/Characters/bart.jpg'
